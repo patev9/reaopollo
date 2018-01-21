@@ -1,0 +1,12 @@
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components/
+.DS_Store
+dist/
+node_modules/
+pkg/
+mindwallet
+vendor/
+
